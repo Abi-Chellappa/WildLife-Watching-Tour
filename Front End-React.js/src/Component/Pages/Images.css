@@ -1,0 +1,31 @@
+.imagefull{
+    
+    padding-top: 80px;
+    font-size: 30px;
+    background-color: white;
+    height: 100vh;
+}
+.imageslide{
+   
+    padding-top: 1%;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-bottom: 2%;
+    
+}.imageslide img{
+border-radius: 15px;
+
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.496);
+
+}
+
+.carousel .slider-wrapper{
+    padding-top: 30px;
+}
+.carousel .thumb{
+    width: 150%;
+    height: 50px;
+}
+.carousel{
+    text-align: center;
+}

@@ -1,0 +1,111 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.feedfull
+{
+    padding-top: 150px;
+    background: url("https://images.blocksurvey.io/cdn-cgi/imagedelivery/G6cPOuGZ4Z_bEV13gBxixw/templates/speaker-registration-form.svg/s");
+    background-position: center;
+    background-repeat: repeat;
+   
+    background-attachment: fixed;
+    height: 230vh;
+    left: 0;
+    top: 0;
+    padding-bottom: 20px;
+}
+
+
+.feedform
+{
+    width: 55%;
+    background-color: rgb(77, 166, 201);
+    height: 100.1%;
+    margin-left: 340px;
+    bottom: 10%;
+    padding: 10px;
+    box-shadow: 4px 4px 4px rgb(115, 185, 213);
+   
+}
+.feedform ::placeholder{
+    padding-left: 20px;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.834);
+}
+.formhead
+{
+   
+    background-color: rgba(16, 111, 148, 0.729);
+   height: 100px;
+   margin:-10px;
+
+
+}
+.feedform label
+{
+    overflow-wrap: break-word;
+    color: white;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: initial;
+    font-size: 20px;
+    line-height: 1.3;
+    max-width: 100%;
+    position: relative;
+    white-space: pre-wrap;
+    margin-left: 100px;
+    bottom: 10px;
+    margin-top: 50px;
+    margin-left: 130px;
+  width: 600px;
+  text-align: left;
+    
+}
+
+.feedform .formhead h1{
+    font-size:  30px;
+    color: white;
+    padding: 30px;
+    
+}
+.feedform input{
+    width: 550px;
+    height: 35px;
+    border: none;
+    margin-left: -10px;
+    margin-top: 8px;
+    
+}
+.check input
+{
+    margin-left: -500px;
+    height: 15px;
+    margin-top: 0px;
+}
+.check label{
+    margin-left: 174px;
+    color: white;
+    margin-top: -12px;
+    text-align: left;
+    font-size: 18px;
+}
+.textinput textarea{
+    
+       width: 550px;
+       height: 80px;
+       margin-left: 0px;
+       margin-top: 10px;
+  
+}
+.buttonform input{
+    margin-top: 40px;
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 19px;
+    background-color: skyblue;
+    color: white;
+}

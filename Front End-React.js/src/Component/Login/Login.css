@@ -1,0 +1,147 @@
+.wildlogin
+{
+    background: url("./ld.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    left: 0;
+    top: 0;
+   
+}
+.form06
+{
+    position: absolute;
+    width: 500px;
+    height: 480px;
+    background-color: rgba(255, 255, 255, 0.396);
+    margin-top: 232px;
+    margin-left: 850px;
+    letter-spacing: normal;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.784);
+    border-radius: 25px;
+}
+.form06 h1
+{
+    font-family: sans-serif;
+    text-shadow: 60px;
+    font-weight: bold;
+    color: rgb(126, 126, 249);
+    margin-top: 45px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+    font-size: 39px;
+    letter-spacing: 1px;
+    
+}
+.form06 input[type=password]
+{
+    width: 320px;
+    height: 35px;
+    color:black;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    padding-left: 65px;
+    display: inline-block;
+    border-radius: 5px;
+    border: none;
+}
+.form06 input[type=text]
+{
+    width: 320px;
+    height: 35px;
+    color:black;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 45px;
+    font-family: sans-serif;
+    padding-left: 65px;
+    display: inline-block;
+    border-radius: 5px;
+    border: none;
+}
+.form06 ::placeholder
+{
+   text-align: left;
+   color: black;
+   font-size: medium;
+   padding-left: 0px;
+   font-weight: 100;
+}
+.logbut06
+{
+    width: 330px;
+    margin-top: 30px;
+    margin-left: 10px;
+    height: 38px;
+    font-size: 20px;
+    background-color: rgb(125, 125, 244);
+    border-color: white;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.form06 .email .email_icon
+{
+    position: absolute;
+    margin-top: -32px;
+    margin-left: -145px;
+     width: 33px;
+     height: 27px;
+}
+.form06 .password .password_icon
+{
+    position: absolute;
+    margin-top: -30px;
+    margin-left: -145px;
+     width: 30px;
+     height: 22px;
+}
+.forgot06
+{
+   
+    cursor: pointer;
+    margin-top: 25px;
+   margin-left: 200px;
+}
+.forgot06 a:hover
+{
+    color: rgb(136, 136, 240);
+}
+.register066
+{
+    position: absolute;
+    
+    margin-top: 550px;
+    margin-left: 620px;
+}
+.register066 .para06{
+    font-size: 18px;
+    margin-bottom: 45px;
+    margin-left: 18px;
+    
+}
+.register066 .reg 
+{
+    color: rgb(136, 136, 240);
+    margin-top: -20px;
+}
+.or06 
+{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 18px;
+}
+.or06 a{
+    text-decoration: none;
+   color: black;
+}
+.or06 a:hover
+{
+    color: rgb(40, 40, 246);
+}
+
